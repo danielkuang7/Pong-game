@@ -12,7 +12,7 @@ body{
 }
 
 .paddle.left {
-
+    left: 1vw;
 }
 
 .paddle.right {
