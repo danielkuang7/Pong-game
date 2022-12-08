@@ -9,6 +9,7 @@ body{
 
 .paddle {
     position: absolute;
+    background-color: white;
 }
 
 .paddle.left {
