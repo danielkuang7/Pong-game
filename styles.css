@@ -10,6 +10,7 @@ body{
 .paddle {
     position: absolute;
     background-color: white;
+    width: 1vh;
 }
 
 .paddle.left {
