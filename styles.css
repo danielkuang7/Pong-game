@@ -4,6 +4,7 @@
 
 :root {
     --hue: 200;
+    --saturation: 50%;
 }
 
 body{
